@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/filmpire/static/js/main.85cd5388.chunk.js",
+    "main.js.map": "/filmpire/static/js/main.85cd5388.chunk.js.map",
+    "runtime-main.js": "/filmpire/static/js/runtime-main.869d84fa.js",
+    "runtime-main.js.map": "/filmpire/static/js/runtime-main.869d84fa.js.map",
+    "static/js/2.3d5db194.chunk.js": "/filmpire/static/js/2.3d5db194.chunk.js",
+    "static/js/2.3d5db194.chunk.js.map": "/filmpire/static/js/2.3d5db194.chunk.js.map",
+    "index.html": "/filmpire/index.html",
+    "static/js/2.3d5db194.chunk.js.LICENSE.txt": "/filmpire/static/js/2.3d5db194.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.869d84fa.js",
+    "static/js/2.3d5db194.chunk.js",
+    "static/js/main.85cd5388.chunk.js"
+  ]
+}
